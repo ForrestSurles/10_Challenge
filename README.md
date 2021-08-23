@@ -1,8 +1,10 @@
-# \<title\>
+# Unsupervised Machine Learning | K-Means Algorithm
 
 Welcome to the **10_Module_Challenge** Jupyter Notebook!
 
-> The included Jupyter Notebook 
+> The included Jupyter Notebook utilizes an unsupervised machine learning algorithm, the k-means algorithm, to cluster data into relevant segments that help drive decision-making.
+>
+> Also included are the steps to perform a Principal Component Analysis (PCA) to illustrate this optimization technique.
 
 ## Technologies
 
